@@ -11,3 +11,6 @@ jobs:
       - name: some random step
         run: |
           python3 -c "print('hello')"
+          python3 -c "print(1+1)"
+          
+          
